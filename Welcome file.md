@@ -154,8 +154,8 @@ vamos colocar os seguintes campos
 	_data {
 	info {
 		pushName = nome de quem mandou;
+		}
 	}
-}
 
 	
   
@@ -168,6 +168,6 @@ vamos colocar os seguintes campos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNjc2NTA5OCw5MjA0MTk3MDYsLTE3ND
+eyJoaXN0b3J5IjpbMTg1NTA4MzQxNCw5MjA0MTk3MDYsLTE3ND
 czMjA1MDMsLTE3NjU2MTQwMjVdfQ==
 -->
