@@ -174,9 +174,14 @@ Após criado e salvo, vamos escolher o modelo, e definir um sample temperature (
 
 5.5 **Definindo o armazenamento: **
 Vamos usar o redis que ja temos no nosso docker.
+Após isso vamos definir as credenciais: 
 
+# **Password:** `default`
+# **Host:** `host.docker.internal`
+
+e vamos salvar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjczMjY5NywtMzkxNDQyODMxLC0zNj
-Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
-NTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbLTIwMTczMTY4MzgsLTM5MTQ0MjgzMSwtMz
+Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
+MDUwMywtMTc2NTYxNDAyNV19
 -->
