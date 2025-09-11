@@ -159,13 +159,15 @@ Nele nós vamos passar as instruções para dizer como vamos continuar o fluxo.
   
 # **Source for prompt:** `Define Below`
 
+# **Prompt (User Message):** `Parâmetro: message`
 
-# **Prompt (User Message):** `Parametro: message`
+# **Add Option:** `System Message: (Aqui vai o prompt (instrução)`
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDg0NzkzNiwtMzkxNDQyODMxLC0zNj
-Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
-NTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbOTg3MTczMDA4LC0zOTE0NDI4MzEsLTM2Nj
+g4Njg1MCwtMTYwNjY3MjIwNSw5MjA0MTk3MDYsLTE3NDczMjA1
+MDMsLTE3NjU2MTQwMjVdfQ==
 -->
