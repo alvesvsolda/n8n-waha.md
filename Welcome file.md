@@ -140,6 +140,8 @@ Teste seu Webhook
 
 5.1 **Agora vamos adicionar um filtro com o widget "Set"**
 vamos colocar os seguintes campos
+
+
 	body {
 		session = sessão do WAHA;	
 		event = tipo de evento (mensagem) ; 
@@ -161,7 +163,9 @@ vamos colocar os seguintes campos
 
 
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Mjg1NjY4Niw5MjA0MTk3MDYsLTE3ND
-czMjA1MDMsLTE3NjU2MTQwMjVdfQ==
+eyJoaXN0b3J5IjpbOTQ4MDQyNzM0LDkyMDQxOTcwNiwtMTc0Nz
+MyMDUwMywtMTc2NTYxNDAyNV19
 -->
