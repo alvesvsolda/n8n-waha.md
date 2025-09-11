@@ -136,7 +136,12 @@ Vamos voltar no Waha e configurar o Webhook
 
 > **Update**
 
+Teste seu Webhook
+
+5.1 **Agora vamos adicionar um filtro com o widget "Set"**
+vamos colocar os seguintes campos
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDg3NTgxNDEsOTIwNDE5NzA2LC0xNz
-Q3MzIwNTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbLTczNTUyMTMwNSw5MjA0MTk3MDYsLTE3ND
+czMjA1MDMsLTE3NjU2MTQwMjVdfQ==
 -->
