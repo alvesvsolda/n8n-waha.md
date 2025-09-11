@@ -141,34 +141,24 @@ Teste seu Webhook
 5.1 **Agora vamos adicionar um filtro com o widget "Set"**
 vamos colocar os seguintes campos
 
-    	body {
-		session = sessão do WAHA;	
-		event = tipo de evento (mensagem);
-		}  
-	payload {
-		chatId = número de quem mandou  (from);
-		payload_id = id da mensagem
-		message = mensagem que chegou  (body)
-		fromMe = indica se você mesmo enviou tal mensagem
-}
-	_data {
-		info {
-			pushName = nome de quem mandou  
-		}
+    body {
+	session = sessão do WAHA;	
+	event = tipo de evento (mensagem);
 	}
- 
-}  
 	payload {
-		chatId = número de quem mandou  (from);
-		payload_id = id da mensagem
-		message = mensagem que chegou  (body)
-		fromMe = indica se você mesmo enviou tal mensagem
-}
-	_data {
-		info {
-			pushName = nome de quem mandou  
-		}
+	chatId = número de quem mandou  (from);
+	payload_id = id da mensagem;
+	message = mensagem que chegou  (body);
+	fromMe = indica se você mesmo enviou tal mensagem;
 	}
+	_data {
+	info {
+		pushName = nome de quem mandou;
+	}
+}
+
+	
+  
 
 
 
@@ -178,6 +168,6 @@ vamos colocar os seguintes campos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzkzMDYxNiw5MjA0MTk3MDYsLTE3ND
+eyJoaXN0b3J5IjpbLTcxNjc2NTA5OCw5MjA0MTk3MDYsLTE3ND
 czMjA1MDMsLTE3NjU2MTQwMjVdfQ==
 -->
