@@ -119,14 +119,14 @@ Para garantir que todos usem a mesma configuração, este arquivo está hospedad
 
 ## 5. Workflow
 
-Vamos iniciar o nosso workflow com um  Trigger.
+Vamos iniciar o nosso workflow com um  Trigger:
 
->On Webhook call.
+## On Webhook call.
 
-HTTP 
-
+> **HTTP Method: Post**
+>  **Path: webhook**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNDA0OTM4NSwtMTc0NzMyMDUwMywtMT
-c2NTYxNDAyNV19
+eyJoaXN0b3J5IjpbOTIwNDE5NzA2LC0xNzQ3MzIwNTAzLC0xNz
+Y1NjE0MDI1XX0=
 -->
