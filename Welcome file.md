@@ -145,7 +145,10 @@ vamos colocar os seguintes campos
 		event = tipo de evento (mensagem) ; 
 }  
 	payload {
-		chatId = número de quem mandou  (from)
+		chatId = número de quem mandou  (from);
+		payload_id = id da mensagem
+		message = mensagem que chegou  (body)
+		fromMe = indica se você mesmo enviou tal mensagem
 }
 	_data {
 		info {
@@ -155,10 +158,10 @@ vamos colocar os seguintes campos
 
 
 
-payload_id = id da mensagem  
-message = mensagem que chegou  
-fromMe = indica se você mesmo enviou tal mensagem
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTc3Mjc5ODgsOTIwNDE5NzA2LC0xNz
-Q3MzIwNTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbMTg4Mjg1NjY4Niw5MjA0MTk3MDYsLTE3ND
+czMjA1MDMsLTE3NjU2MTQwMjVdfQ==
 -->
