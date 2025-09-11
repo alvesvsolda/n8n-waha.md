@@ -129,8 +129,14 @@ Vamos iniciar o nosso workflow com um  Trigger:
 
 Vamos voltar no Waha e configurar o Webhook
 
-> **Configuraç**
+> **Configurações**
+> Cola URL teste
+> **Events**
+> message
+
+> **Update**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI0OTIwMzY4LDkyMDQxOTcwNiwtMTc0Nz
-MyMDUwMywtMTc2NTYxNDAyNV19
+eyJoaXN0b3J5IjpbLTIxMDg3NTgxNDEsOTIwNDE5NzA2LC0xNz
+Q3MzIwNTAzLC0xNzY1NjE0MDI1XX0=
 -->
