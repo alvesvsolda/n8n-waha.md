@@ -170,9 +170,13 @@ Nele nós vamos passar as instruções para dizer como vamos continuar o fluxo.
 >Em Chat Model, vamos selecionar o desejado.
 Após escolhido, vamos criar as credenciais.	
 
-Após criado e salvo, vamos escolher o modelo, e definir um sample temperature (
+Após criado e salvo, vamos escolher o modelo, e definir um sample temperature (uma escala para alucinação (quanto mais baixo menos alucina) 
+
+5.5 **Definindo o armazenamento: **
+Vamos usar o redis que ja temos no nosso docker.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTEzNDEyMTMsLTM5MTQ0MjgzMSwtMz
-Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
-MDUwMywtMTc2NTYxNDAyNV19
+eyJoaXN0b3J5IjpbLTk1NjczMjY5NywtMzkxNDQyODMxLC0zNj
+Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
+NTAzLC0xNzY1NjE0MDI1XX0=
 -->
