@@ -198,9 +198,9 @@ após isso salvamos e vamos voltar para o Widget, e nele, vamos informar os dado
 # **Session:** `session(dados)`
 # **Chat ID:** `chatid(dados)`
 # **Message ID:** `payloadid(dados)`
-
+e vamos testar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjQ2MDI1NCwtMzkxNDQyODMxLC0zNj
+eyJoaXN0b3J5IjpbLTE3MTg5OTA3MiwtMzkxNDQyODMxLC0zNj
 Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
 NTAzLC0xNzY1NjE0MDI1XX0=
 -->
