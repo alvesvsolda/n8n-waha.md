@@ -126,7 +126,11 @@ Vamos iniciar o nosso workflow com um  Trigger:
 > **HTTP Method: Post**
 >  **Path: webhook**
 
+
+Vamos voltar no Waha e configurar o Webhook
+
+> **Configuraç**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwNDE5NzA2LC0xNzQ3MzIwNTAzLC0xNz
-Y1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbMjI0OTIwMzY4LDkyMDQxOTcwNiwtMTc0Nz
+MyMDUwMywtMTc2NTYxNDAyNV19
 -->
