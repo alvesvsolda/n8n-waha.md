@@ -154,8 +154,7 @@ Nele vamos comprar se o "event" (evento ao qual filtramos) é igual a uma mensag
 E vamos testar.
 
 5.3 **Agora vamos começar a mágica, adicionando um Agente IA.**	
-
-
+Nele nós vamos passar as instruções para dizer como vamos continuar o fluxo.
 
   
 
@@ -167,7 +166,7 @@ E vamos testar.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTQ2ODYxMzgsLTM2Njg4Njg1MCwtMT
-YwNjY3MjIwNSw5MjA0MTk3MDYsLTE3NDczMjA1MDMsLTE3NjU2
-MTQwMjVdfQ==
+eyJoaXN0b3J5IjpbLTM5MTQ0MjgzMSwtMzY2ODg2ODUwLC0xNj
+A2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMyMDUwMywtMTc2NTYx
+NDAyNV19
 -->
