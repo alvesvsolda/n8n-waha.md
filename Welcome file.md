@@ -150,9 +150,10 @@ nele, vamos colocar os seguintes campos:
 	
 5.2 **Com isso temos nossos dados filtrados, após isso vamos adicionar um campo "Switch".**	
 
-Nele vamos comprar se o "event"
+Nele vamos comprar se o "event" (evento ao qual filtramos) é igual a uma mensagem "message".
+E vamos testar.
 
-
+5.3 **Agora vamos começar a mágica, adicionando um Agente IA.**	
 
 
 
@@ -166,7 +167,7 @@ Nele vamos comprar se o "event"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzA5MTQ4OSwtMzY2ODg2ODUwLC0xNj
-A2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMyMDUwMywtMTc2NTYx
-NDAyNV19
+eyJoaXN0b3J5IjpbLTE1NTQ2ODYxMzgsLTM2Njg4Njg1MCwtMT
+YwNjY3MjIwNSw5MjA0MTk3MDYsLTE3NDczMjA1MDMsLTE3NjU2
+MTQwMjVdfQ==
 -->
