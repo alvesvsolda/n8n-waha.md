@@ -115,9 +115,12 @@ Para garantir que todos usem a mesma configuração, este arquivo está hospedad
 
 4.4 **Vamos adicionar o node para fazer a conexão entre o N8N e o WAHA**
 
-	*no 
+	No campo vamos digitar: n8n-nodes-waha
 
+## 5. Workflow
+
+VA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU1NDQ2OTEzLC0xNzQ3MzIwNTAzLC0xNz
-Y1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbLTczNTM0MzczMCwtMTc0NzMyMDUwMywtMT
+c2NTYxNDAyNV19
 -->
