@@ -166,10 +166,13 @@ Nele nós vamos passar as instruções para dizer como vamos continuar o fluxo.
 
 
 5.4 **Agora vamos definir a LLM que vamos usar: **
-Em Chat Model, vamos selecionar o modelo desejado: 
-após escolhido, vamos criar as credencia	
+
+>Em Chat Model, vamos selecionar o modelo desejado: 
+após escolhido, vamos criar as credenciais.	
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTQ0NzE1MCwtMzkxNDQyODMxLC0zNj
-Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
-NTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbLTE1NzMyMDY0OTQsLTM5MTQ0MjgzMSwtMz
+Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
+MDUwMywtMTc2NTYxNDAyNV19
 -->
