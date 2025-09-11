@@ -191,9 +191,11 @@ Vamos iniciar com o Widget "Send Seen" que vai servir para vizualizar a mensagem
 após adiciona-los vamos apagar os 3 campos.
 e adicionar as credenciais do Waha.
 
-# **Host URL:** `Define Below.`
+# **Host URL:** `http://host.docker.internal:3000.`
+
+após isso salvamos e vamos voltar para o Widget, e nele, vamos informar o
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODAxNjI5OTYsLTM5MTQ0MjgzMSwtMz
-Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
-MDUwMywtMTc2NTYxNDAyNV19
+eyJoaXN0b3J5IjpbLTQ3Mjg3NzQ3MywtMzkxNDQyODMxLC0zNj
+Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
+NTAzLC0xNzY1NjE0MDI1XX0=
 -->
