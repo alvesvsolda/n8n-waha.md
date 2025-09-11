@@ -113,9 +113,11 @@ Para garantir que todos usem a mesma configuração, este arquivo está hospedad
 
 > I´m not using n8n for work
 
-4.4 **
+4.4 **Vamos adicionar o node para fazer a conexão entre o N8N e o WAHA**
+
+	*no 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3NzA4ODE5LC0xNzQ3MzIwNTAzLC0xNz
+eyJoaXN0b3J5IjpbNTU1NDQ2OTEzLC0xNzQ3MzIwNTAzLC0xNz
 Y1NjE0MDI1XX0=
 -->
