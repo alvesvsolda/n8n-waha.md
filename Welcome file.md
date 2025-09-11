@@ -160,10 +160,10 @@ vamos colocar os seguintes campos
 # **session:** `session(body)`
 # **chatId:** `from(payload)`
 # **pushName:** `value`
-# **payload_id:** `value`
+# **payload_id:** `payload(id)`
 # **event:** `event(body)`
-# **message:** `value`
-# **fromMe:** `value`
+# **message:** `body(payload)`
+# **fromMe:** `fromMe(payload)`
 	
 	
 
@@ -181,6 +181,6 @@ vamos colocar os seguintes campos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwODc1MDgwOCwtMTYwNjY3MjIwNSw5Mj
+eyJoaXN0b3J5IjpbMTE3MjAwMDU5NywtMTYwNjY3MjIwNSw5Mj
 A0MTk3MDYsLTE3NDczMjA1MDMsLTE3NjU2MTQwMjVdfQ==
 -->
