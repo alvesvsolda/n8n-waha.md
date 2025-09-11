@@ -148,7 +148,8 @@ nele, vamos colocar os seguintes campos:
 # **message:** `body(payload)`
 # **fromMe:** `fromMe(payload)`
 	
-	
+5.2 **Com isso temos nossos dados filtrados, após isso vamos adicionar um campo "Switch".**	
+
 
 
 
@@ -164,6 +165,6 @@ nele, vamos colocar os seguintes campos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzY4Njc1ODksLTE2MDY2NzIyMDUsOT
-IwNDE5NzA2LC0xNzQ3MzIwNTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbLTM2Njg4Njg1MCwtMTYwNjY3MjIwNSw5Mj
+A0MTk3MDYsLTE3NDczMjA1MDMsLTE3NjU2MTQwMjVdfQ==
 -->
