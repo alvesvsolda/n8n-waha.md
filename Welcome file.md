@@ -188,10 +188,12 @@ após isso vamos voltar para :
 
 5.6 **Configurando o fluxo do WAHA: **
 Vamos iniciar com o Widget "Send Seen" que vai servir para vizualizar a mensagem.
-após adiciona-los vamos apagar os 3 campos 
+após adiciona-los vamos apagar os 3 campos.
+e adicionar as credenciais do Waha.
 
+# **Host URL:** `Define Below.`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwMzkwNzg3LC0zOTE0NDI4MzEsLTM2Nj
-g4Njg1MCwtMTYwNjY3MjIwNSw5MjA0MTk3MDYsLTE3NDczMjA1
-MDMsLTE3NjU2MTQwMjVdfQ==
+eyJoaXN0b3J5IjpbLTE3ODAxNjI5OTYsLTM5MTQ0MjgzMSwtMz
+Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
+MDUwMywtMTc2NTYxNDAyNV19
 -->
