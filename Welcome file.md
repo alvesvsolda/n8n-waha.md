@@ -147,7 +147,7 @@ vamos colocar os seguintes campos
 	}
 	payload {
 	chatId = número de quem mandou  (from);
-	payload_id = id da mensagem;
+	payload_id = id da mensagem (id); 
 	message = mensagem que chegou  (body);
 	fromMe = indica se você mesmo enviou tal mensagem;
 	}
@@ -168,6 +168,6 @@ vamos colocar os seguintes campos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTA4MzQxNCw5MjA0MTk3MDYsLTE3ND
+eyJoaXN0b3J5IjpbLTQzNjQ1NTgwMiw5MjA0MTk3MDYsLTE3ND
 czMjA1MDMsLTE3NjU2MTQwMjVdfQ==
 -->
