@@ -139,27 +139,10 @@ Vamos voltar no Waha e configurar o Webhook
 Teste seu Webhook
 
 5.1 **Agora vamos adicionar um filtro com o widget "Set"**
-vamos colocar os seguintes campos
-
-    body {
-	session = sessão do WAHA;	
-	event = tipo de evento (mensagem);
-	}
-	payload {
-	chatId = número de quem mandou  (from);
-	payload_id = id da mensagem (id); 
-	message = mensagem que chegou  (body);
-	fromMe = indica se você mesmo enviou tal mensagem;
-	}
-	_data {
-	id {
-		pushName = nome de quem mandou;
-		}
-	}
-
+nele, vamos colocar os seguintes campos:
 # **session:** `session(body)`
 # **chatId:** `from(payload)`
-# **pushName:** `notifyNma`
+# **pushName:** `notifyName(media)`
 # **payload_id:** `payload(id)`
 # **event:** `event(body)`
 # **message:** `body(payload)`
@@ -181,6 +164,6 @@ vamos colocar os seguintes campos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjMxNDg0NSwtMTYwNjY3MjIwNSw5Mj
-A0MTk3MDYsLTE3NDczMjA1MDMsLTE3NjU2MTQwMjVdfQ==
+eyJoaXN0b3J5IjpbLTEwMzY4Njc1ODksLTE2MDY2NzIyMDUsOT
+IwNDE5NzA2LC0xNzQ3MzIwNTAzLC0xNzY1NjE0MDI1XX0=
 -->
