@@ -150,6 +150,7 @@ nele, vamos colocar os seguintes campos:
 	
 5.2 **Com isso temos nossos dados filtrados, após isso vamos adicionar um campo "Switch".**	
 
+Nele vamos comprar se o "event"
 
 
 
@@ -165,6 +166,7 @@ nele, vamos colocar os seguintes campos:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Njg4Njg1MCwtMTYwNjY3MjIwNSw5Mj
-A0MTk3MDYsLTE3NDczMjA1MDMsLTE3NjU2MTQwMjVdfQ==
+eyJoaXN0b3J5IjpbLTYwMzA5MTQ4OSwtMzY2ODg2ODUwLC0xNj
+A2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMyMDUwMywtMTc2NTYx
+NDAyNV19
 -->
