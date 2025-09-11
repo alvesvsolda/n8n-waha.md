@@ -167,12 +167,12 @@ Nele nós vamos passar as instruções para dizer como vamos continuar o fluxo.
 
 5.4 **Agora vamos definir a LLM que vamos usar: **
 
->Em Chat Model, vamos selecionar o modelo desejado: 
-após escolhido, vamos criar as credenciais.	
+>Em Chat Model, vamos selecionar o desejado.
+Após escolhido, vamos criar as credenciais.	
 
-
+Após criado e salvo, vamos escolher o modelo, e definir um sample temperature (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzMyMDY0OTQsLTM5MTQ0MjgzMSwtMz
+eyJoaXN0b3J5IjpbLTE5MTEzNDEyMTMsLTM5MTQ0MjgzMSwtMz
 Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
 MDUwMywtMTc2NTYxNDAyNV19
 -->
