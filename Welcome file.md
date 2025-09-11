@@ -46,7 +46,7 @@ O Docker Desktop é a maneira mais fácil de usar o Docker em um ambiente Window
 1.2.3.  **Verificar a Instalação:**
     * Após reiniciar, abra o Docker Desktop pelo menu Iniciar. Ele pode levar um minuto para iniciar o serviço.
     * Abra um terminal (PowerShell ou CMD) e digite o seguinte comando para confirmar que o Docker foi instalado:
-        ```sh
+        ```
         docker --version
         ```
         Você deverá ver uma resposta como `Docker version 28.3.2, build 578ccf6`.
@@ -76,11 +76,11 @@ Para garantir que todos usem a mesma configuração, este arquivo está hospedad
 3.4.  **Inicie os Serviços com Docker Compose:**
     * Abra um terminal (PowerShell ou CMD).
     * Navegue até a pasta do seu projeto usando o comando `cd`. Por exemplo:
-        ```sh
+        ```
         PS C:\Users\Alves> cd .\Documents\n8n-waha\
         ```
     * Execute o seguinte comando. Ele irá ler o arquivo, baixar as imagens necessárias e iniciar os contêineres em segundo plano:
-        ```sh
+        ```
         docker-compose up -d
         ```
 
@@ -200,7 +200,7 @@ após isso salvamos e vamos voltar para o Widget, e nele, vamos informar os dado
 # **Message ID:** `payloadid(dados)`
 e vamos testar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg5OTA3MiwtMzkxNDQyODMxLC0zNj
-Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
-NTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbMTk0NzY5NTQ3LC0zOTE0NDI4MzEsLTM2Nj
+g4Njg1MCwtMTYwNjY3MjIwNSw5MjA0MTk3MDYsLTE3NDczMjA1
+MDMsLTE3NjU2MTQwMjVdfQ==
 -->
