@@ -152,7 +152,7 @@ vamos colocar os seguintes campos
 	fromMe = indica se você mesmo enviou tal mensagem;
 	}
 	_data {
-	info {
+	id {
 		pushName = nome de quem mandou;
 		}
 	}
@@ -168,6 +168,6 @@ vamos colocar os seguintes campos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNjQ1NTgwMiw5MjA0MTk3MDYsLTE3ND
-czMjA1MDMsLTE3NjU2MTQwMjVdfQ==
+eyJoaXN0b3J5IjpbLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNz
+Q3MzIwNTAzLC0xNzY1NjE0MDI1XX0=
 -->
