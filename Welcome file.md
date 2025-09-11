@@ -157,8 +157,20 @@ vamos colocar os seguintes campos
 		}
 	}
 
-# Title **Parameter:** `value`
+# **session:** `value`
+# **chatId:** `value`
+# **pushName:** `value`
+# **payload_id:** `value`
+# **event:** `value`
+# **message:** `value`
+# **fromMe:** `value`
 	
+	
+
+
+
+
+
   
 
 
@@ -169,6 +181,6 @@ vamos colocar os seguintes campos
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0MTQ5OTgwLC0xNjA2NjcyMjA1LDkyMD
+eyJoaXN0b3J5IjpbMjc5NzI2MDg0LC0xNjA2NjcyMjA1LDkyMD
 QxOTcwNiwtMTc0NzMyMDUwMywtMTc2NTYxNDAyNV19
 -->
