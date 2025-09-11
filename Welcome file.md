@@ -183,9 +183,12 @@ e vamos salvar.
 após isso vamos voltar para : 
 # **Session ID:** `Define Below.`
 # **Key:** `ChatID (Dados).`
-# **Key:** `ChatID (Dados).`
+# **Session Time To Live:** `3600`
+# **Context Window Length** `10`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTcwNDYwODcsLTM5MTQ0MjgzMSwtMz
-Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
-MDUwMywtMTc2NTYxNDAyNV19
+eyJoaXN0b3J5IjpbMTE1NDEyMzE0MSwtMzkxNDQyODMxLC0zNj
+Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
+NTAzLC0xNzY1NjE0MDI1XX0=
 -->
