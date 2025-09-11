@@ -186,9 +186,12 @@ após isso vamos voltar para :
 # **Session Time To Live:** `3600`
 # **Context Window Length** `10`
 
+5.6 **Configurando o fluxo do WAHA: **
+Vamos iniciar com o Widget "Send Seen" que vai servir para vizualizar a mensagem.
+após adiciona-los vamos apagar os 3 campos 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NDEyMzE0MSwtMzkxNDQyODMxLC0zNj
-Y4ODY4NTAsLTE2MDY2NzIyMDUsOTIwNDE5NzA2LC0xNzQ3MzIw
-NTAzLC0xNzY1NjE0MDI1XX0=
+eyJoaXN0b3J5IjpbNzMwMzkwNzg3LC0zOTE0NDI4MzEsLTM2Nj
+g4Njg1MCwtMTYwNjY3MjIwNSw5MjA0MTk3MDYsLTE3NDczMjA1
+MDMsLTE3NjU2MTQwMjVdfQ==
 -->
