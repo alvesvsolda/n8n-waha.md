@@ -182,9 +182,10 @@ Após isso vamos definir as credenciais:
 e vamos salvar.
 após isso vamos voltar para : 
 # **Session ID:** `Define Below.`
-# **Key:** `ChatID (.`
+# **Key:** `ChatID (Dados).`
+# **Key:** `ChatID (Dados).`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODM1NDc1NDAsLTM5MTQ0MjgzMSwtMz
+eyJoaXN0b3J5IjpbLTE3OTcwNDYwODcsLTM5MTQ0MjgzMSwtMz
 Y2ODg2ODUwLC0xNjA2NjcyMjA1LDkyMDQxOTcwNiwtMTc0NzMy
 MDUwMywtMTc2NTYxNDAyNV19
 -->
